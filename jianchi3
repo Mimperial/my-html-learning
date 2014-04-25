@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html><head>
+	<title>
+	  <meta style type="text/css">
+	  <a href="irule.html">
+	  <img src="ll.gif">
+	  <car>My red Mini</car>
+	  <car make="BMW" model="Mini Cooper" convertible="no">My Red Mini</car>
+	  <a href="http://www.w3school.com.cn">W3School</a>
+	</title>
+	  </meta>
+	
+</head>
+
+<body>
+	
+	<p><car>My red Mini</car>
+	  <car make="BMW" model="Mini Cooper" convertible="no">My Red Mini</car>
+	  <a href="http://www.w3school.com.cn">W3School</a></p>
+
+</body>
+</html>
